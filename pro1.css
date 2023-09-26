@@ -1,0 +1,96 @@
+#navbarNav{
+    justify-content: flex-end;
+}
+   
+
+li.nav-item{
+    padding: 0 0 0px 20px;
+    font-weight: 500;
+}
+.freeshipingsection {
+    padding: 10px 0px;
+    text-align: center;
+    background-color: #4c1f59;
+    color: white;
+}
+.freeshipingsection p{
+    margin: 0px;
+}
+.sellerheadline{
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+.productcard{
+    text-align: center;
+}
+.productcard img{
+    width: 100%;
+}
+.bannercontent{
+    position: absolute;
+    top: 250px;
+    text-align: center;
+    left: 40%;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.bannercontent button{
+    border: 1px solid black;
+    border-radius:5px;
+    padding: 5px;
+    background-color: aliceblue;
+
+    width: 40%;
+    height: 20%;
+    font-size: small;
+}
+.bannersec2{
+    margin-top: 50px;
+}
+.shopsection{
+    margin-top: 50px;
+   
+}
+    
+.bannercontent2 h4,p,button{
+    margin-top: 10px;
+    
+}   
+
+.bannercontent2 button{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgb(80, 9, 92);
+    color: white;
+}
+.footbox{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 25%;
+    justify-content: space-between;
+    align-items: center;
+}
+footer{
+    background-color: rgba(221, 221, 221, 0.651);
+}
+.icon{
+    display: flex;
+    margin-top: 30px;
+   
+   
+    
+  
+}
+.navbar-nave{
+    
+    list-style: none;
+    
+}
+li.nav-item1{
+    padding: 10px;
+    
+}
